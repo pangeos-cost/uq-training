@@ -20,7 +20,7 @@ For reference
 
 The notebooks are grouped into three cases:
 
-1. Case 1 - ground measurements with dual-view spectrometer system Piccolo doppio
+1. Case 1 - ground measurements with a dual-view spectrometer system Piccolo doppio
    0. Piccolo instrument description and data processing [notebooks/case_1-Ex0-Piccolo.ipynb](notebooks/case_1-Ex0-Piccolo.ipynb)
    1. Uncertainty propagation for radiance measurements [notebooks/case_1-Ex1.1_UPropagation_Noise_Cal.ipynb](notebooks/case_1-Ex1.1_UPropagation_Noise_Cal.ipynb)
    2. Uncertainty propagation to reflectance [notebooks/case_1-Ex1.2_UPropagation_Noise_Cal.ipynb](notebooks/case_1-Ex1.2_UPropagation_Noise_Cal.ipynb)
@@ -33,7 +33,7 @@ The notebooks are grouped into three cases:
     1. fAPAR -> GPP with a light use efficiency (LUE) model
     2. LAI -> GPP with the SCOPE (Soil Canopy Observation, Photochemistry and Energy fluxes) model
 
-An extra case illustrating the **uncertainty of the atmospheric** correction is presented in a separate [PyEOSim](https://github.com/pangeos-cost/pangeos-training-24) repository by `Joe Fennell `
+An extra case illustrating the **uncertainty of the atmospheric** correction is presented in a separate [PyEOSim](https://github.com/pangeos-cost/pangeos-training-24) repository by `Joe Fennell`
 
 
 ## Acknowledgements
