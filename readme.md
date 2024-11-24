@@ -10,11 +10,13 @@ The notebooks show how to propagate uncertainty of spectral measurements from le
 
 For reference
 
-- Level 0 - raw (uncalibrated) digital numbers
-- Level 1 - calibrated measurements in absolute units
-- Level 2 - [for satellite data] - top of canopy, atomspherically corrected radiance or reflectance
-- Level 3 - retrieved biophysical traits (leaf area index, LAI; fraction of absorbed photosynthetically active radiation, fAPAR)
-- Level 4 - computed higher-level products (gross primary productivity, GPP; evapotranspiration, ET)
+| level    | description |
+|----------|-------|
+| 0  | raw (uncalibrated) digital numbers     |
+| 1  | calibrated measurements in absolute units     |
+| 2  | [for satellite data] - top of canopy, atomspherically corrected radiance or reflectance     |
+| 3  | retrieved biophysical traits (leaf area index, LAI; fraction of absorbed photosynthetically active radiation, fAPAR)    |
+| 4  | computed higher-level products (gross primary productivity, GPP; evapotranspiration, ET)    |
 
 # Cases
 
