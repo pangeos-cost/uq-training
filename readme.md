@@ -37,6 +37,7 @@ For reference
 	- type in the `Anaconda Promt` `conda activate uq`
 7. Launch jupyter lab
 	- type in the `Anaconda Promt` `jupyter lab`
+8. In the JupyterLab window navige to [notebooks](notebooks) folder and run examples
 
 Note, this does not include `matlabengine` installation because this will depend on your MATLAB version. There are instructions in [notebooks/case3-Ex1.1-Run_SCOPE_from_Python.ipynb](notebooks/case3-Ex1.1-Run_SCOPE_from_Python.ipynb)
 
