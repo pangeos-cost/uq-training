@@ -39,7 +39,7 @@ For reference
 	- type in the `Anaconda Promt` `jupyter lab`
 8. In the JupyterLab window navige to [notebooks](notebooks) folder and run examples
 
-Note, this does not include `matlabengine` installation because this will depend on your MATLAB version. There are instructions in [notebooks/case3-Ex1.1-Run_SCOPE_from_Python.ipynb](notebooks/case3-Ex1.1-Run_SCOPE_from_Python.ipynb)
+Note, this does not include `matlabengine` installation because this will depend on your MATLAB version. There are instructions in [notebooks/case_3-Ex1.1-Run_SCOPE_from_Python.ipynb](notebooks/case_3-Ex1.1-Run_SCOPE_from_Python.ipynb)
 
 # Cases
 
@@ -58,8 +58,8 @@ The notebooks are grouped into six cases, three of which 1-3 are illustrated in 
     3. Radiative transfer model (RTM) inversion is explained in a separate repository by `Jose Gomez-Dans` 
 	<a href="https://github.com/pangeos-cost/pangeos_uq/blob/main/notebooks/09-PiccoloDoppioInversion.ipynb" target="_blank">09-PiccoloDoppioInversion.ipynb</a>
 3. Case 3 (notebooks) - retrieved parameters to higher level model outputs
-    1. Calling SCOPE (Soil Canopy Observation, Photochemistry and Energy fluxes) model from Python [notebooks/case3-Ex1.1-Run_SCOPE_from_Python.ipynb](notebooks/case3-Ex1.1-Run_SCOPE_from_Python.ipynb)
-    2. Uncertainty in LAI -> uncertainty in GPP and LST with the SCOPE [notebooks/case3-Ex1.2-COMET_Call_of_SCOPE.ipynb](notebooks/case3-Ex1.2-COMET_Call_of_SCOPE.ipynb)
+    1. Calling SCOPE (Soil Canopy Observation, Photochemistry and Energy fluxes) model from Python [notebooks/case_3-Ex1.1-Run_SCOPE_from_Python.ipynb](notebooks/case_3-Ex1.1-Run_SCOPE_from_Python.ipynb)
+    2. Uncertainty in LAI -> uncertainty in GPP and LST with the SCOPE [notebooks/case_3-Ex1.2-COMET_Call_of_SCOPE.ipynb](notebooks/case_3-Ex1.2-COMET_Call_of_SCOPE.ipynb)
 4. Case 4 (external MATLAB tool) - epistemic uncertainty propagation with the ARTMO toolbox
 5. Case 5 (external Python repository) - uncertainty of the atmospheric correction is presented in a separate 
 <a href="https://github.com/pangeos-cost/pangeos-training-24" target="_blank">PyEOSim</a> repository by `Joe Fennell`
