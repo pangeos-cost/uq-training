@@ -66,6 +66,9 @@ The notebooks are grouped into six cases, three of which 1-3 are illustrated in 
 
 # Theory (presentations)
 
+<a href="https://drive.google.com/file/d/1cr8kyW4BjVWxNudcpQRq1q6VsPr8_Ul3/view?usp=sharing" target="_blank">Summary of the course</a> 
+
+
 | case      | author | topic |
 |----------|--------|-------|
 | 0  | Gary Llewellyn    | <a href="https://drive.google.com/file/d/1IP_Aq2hQyFVKUuU9BIXB6mG8umVtM8kj/view?usp=sharing" target="_blank">Principles and Methods for Field Spectrometry</a> |
@@ -74,7 +77,7 @@ The notebooks are grouped into six cases, three of which 1-3 are illustrated in 
 | 1  |  Laura Mihai   | <a href="https://docs.google.com/spreadsheets/d/1xZlU-cT2PwqFsijUYuLjePmwRP0ud5O8/edit?usp=sharing&ouid=118085746887841822427&rtpof=true&sd=true" target="_blank"> Uncertainty analysis checklist </a> |
 | 2  |  Jose Gomez-Dans   | <a href="https://drive.google.com/file/d/1K2Y8H6MLXy2uD08ZCAp4_aBaDEqCzBoP/view?usp=sharing" target="_blank"> A brief look at biophysical parameter retrieval using radiative transfer models </a> |
 | 2  |  Jose Gomez-Dans   | <a href="https://github.com/pangeos-cost/pangeos_uq" target="_blank"> GitHub repository pangeos_uq </a> |
-| 3  |  Egor Prikaziuk   | SCOPE model: what can you use it for |
+| 3  |  Egor Prikaziuk   | <a href="https://drive.google.com/file/d/1Gl84QG2wUHjBiKDdCcJq-JfQG79WNFWw/view?usp=sharing" target="_blank">SCOPE model: what can you use it for</a> |
 | 3  |  Andy Hueni & Mike Werfeli  | <a href="https://drive.google.com/file/d/1lpc47y9x5CLsxO-TWJx6h2g-6CFDhHfG/view?usp=sharing" target="_blank"> Uncertainty of SCOPE </a> |
 | 4  |  Jochem Verrelst | <a href="https://drive.google.com/file/d/1PldD4eUquZ-3r2I3ZXj_aSe8UI78jqDc/view?usp=sharing" target="_blank"> Tutorial: ARTMO essentials </a> |
 | 4  |  Jochem Verrelst | <a href="https://drive.google.com/file/d/1D-xDQAxKI3--4WBwQda-GA1POw9nkF5z/view?usp=sharing" target="_blank"> Tutorial: Semi-automatic mapping of vegetation properties using MLRA toolbox </a> |
