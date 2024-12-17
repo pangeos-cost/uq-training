@@ -76,8 +76,9 @@ Installation <a href="https://pangeos.eu/wp-content/uploads/2024/09/pre-workshop
 
 
 # Quiz
-
 [back to TOC](#toc)
+
+Assess your understanding of the topics covered during the training course with the following <a href="https://form.jotform.com/243444675125357" target="_blank">`Quiz`</a>
 
 
 
