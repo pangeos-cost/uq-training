@@ -9,26 +9,36 @@ authors:
     orcid: 0000-0002-7331-7004
     affiliation: 1
   - name: Laura Mihai
+    orcid: 0000-0003-3869-1890
     affiliation: 2
   - name: Agnieszka Bialek
+    orcid: 0000-0003-4502-2687
     affiliation: 3
   - name: Gary Llewellyn
     affiliation: 4
   - name: Andreas Hueni
+    orcid: 0000-0002-4283-2484
     affiliation: 5
   - name: Mike Werfeli
+    orcid: 0000-0001-5768-8887
     affiliation: 5
   - name: Jos\'e G\'omez-Dans
+	orcid: 0000-0003-4787-8307
     affiliation: 6
   - name: Jochem Verrelst
+    orcid: 0000-0002-6313-2081
     affiliation: 7
   - name: Jose Luis Garcia-Soria
+    orcid: 0000-0002-7693-0891
     affiliation: 7
   - name: Joseph Fennell
+    orcid: 0000-0001-6874-6667
     affiliation: 8
   - name: Dessislava Ganeva
+    orcid: 0000-0001-9265-9539
     affiliation: 9
   - name: Shawn Carlisle Kefauver
+    orcid: 0000-0002-1687-1965
     affiliation: 10
 affiliations:
  - name: Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Enschede, the Netherlands
