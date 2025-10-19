@@ -43,7 +43,7 @@ authors:
 affiliations:
  - name: Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Enschede, the Netherlands
    index: 1
- - name: CETAL-PhIL, National Institute for Laser, Plasma and Radiation Physics, Bucharest, Romania
+ - name: CETAL-PhIL, National Institute for Laser, Plasma and Radiation Physics, Măgurele, Romania
    index: 2
  - name: National Physical Laboratory, Teddington, the UK
    index: 3
