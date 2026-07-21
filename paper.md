@@ -127,6 +127,10 @@ The course was given face-to-face in October 2024. The theory and exercises last
 
 The material was developed for PANGEOS COST action first Summer School held in Bucharest, Romania 30 September - 4 October 2024. 25 early career researchers and innovators were selected from 70 applicants from all over Europe.
 
+# AI usage disclosure
+
+No AI was used for preparation of this code or manuscript.
+
 
 # Acknowledgements
 
